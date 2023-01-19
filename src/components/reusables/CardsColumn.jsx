@@ -1,7 +1,7 @@
     import React from "react";
 
-function DashBoard(){
+function CardsColumn(){
     return <div> Hello </div>
 }
 
-export default DashBoard;
+export default CardsColumn;

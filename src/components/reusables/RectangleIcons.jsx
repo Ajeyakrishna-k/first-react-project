@@ -1,7 +1,7 @@
     import React from "react";
 
-function DashBoard(){
+function RectangleIcons(){
     return <div> Hello </div>
 }
 
-export default DashBoard;
+export default RectangleIcons;

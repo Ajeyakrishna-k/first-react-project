@@ -1,7 +1,7 @@
     import React from "react";
 
-function DashBoard(){
+function DashBoardHeader(){
     return <div> Hello </div>
 }
 
-export default DashBoard;
+export default DashBoardHeader;
